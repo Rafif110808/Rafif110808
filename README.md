@@ -1,3 +1,6 @@
+![Coding GIF]([https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://tenor.com/view/aaaa-gif-8677502227796275419))
+
+
 # Hi 👋 I'm Rafif
 
 Saya seorang siswa **RPL (Rekayasa Perangkat Lunak)** yang sedang belajar programming.
