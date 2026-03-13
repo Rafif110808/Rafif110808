@@ -3,6 +3,6 @@
 
 # Hi 👋 I'm Rafif
 
-Saya seorang siswa **RPL (Rekayasa Perangkat Lunak)** yang sedang belajar programming.
+I am a Software Engineering student who is currently studying programming.
 
 
