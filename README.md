@@ -1,4 +1,4 @@
-![Coding GIF]([https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://tenor.com/view/aaaa-gif-8677502227796275419))
+![Coding GIF](https://tenor.com/kvbdo4mHeHv.gif)
 
 
 # Hi 👋 I'm Rafif
