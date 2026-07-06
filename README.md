@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/gifs/basketball.gif" width="90">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWVidzg3bmIwd2I4eHNzMzd4bGJzZ3JlOTBmZ3h1OTB6c2hmaWZjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yXPquATCb8kGk/giphy.gif" width="90">
 </p>
 
 <h1 align="center">
@@ -77,17 +77,6 @@ Building reliable backend solutions, one commit at a time.
 
 ---
 
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🏀 Club Basket REST API | Laravel REST API with CRUD functionality |
-| 📦 Inventory Management | Inventory management web application |
-| 🎮 Game Projects | Small games built while learning programming |
-| 🌐 Personal Portfolio | Personal website showcasing projects and experience *(Coming Soon)* |
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -108,7 +97,7 @@ Building reliable backend solutions, one commit at a time.
 
 <p align="center">
 
-<img src="./assets/gifs/stephen-curry.gif" width="450">
+<img src="https://media1.tenor.com/m/hAp9stB69WAAAAAC/steph-curry-nba.gif" width="450">
 
 </p>
 
