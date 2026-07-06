@@ -19,7 +19,7 @@ Building reliable backend solutions with consistency, curiosity, and continuous 
 <h3 align="center">
 "Be the best version of yourself in anything you do. You don't have to live anybody else's story."
 </h3>
-> — Stephen Curry
+<p>> — Stephen Curry</p>
 
 ---
 
