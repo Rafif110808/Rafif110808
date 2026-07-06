@@ -20,9 +20,11 @@ Building reliable backend solutions with consistency, curiosity, and continuous 
 
 ## 🏀 Inspiration
 
-> *"Success is not an accident, success is actually a choice."*
->
+ *"Be the best version of yourself in anything you do. You don't have to live anybody else's story."*
+
 > — Stephen Curry
+
+This mindset inspires me to keep learning, write better code, and continuously improve as a backend developer.
 
 ---
 
