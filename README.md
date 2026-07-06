@@ -13,6 +13,13 @@ Building reliable backend solutions, one commit at a time.
 
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
+</p>
+
+---
+
+
 ## 🏀 About Me
 
 - 🎓 Information Systems Student with a strong interest in backend development.
@@ -34,8 +41,32 @@ Building reliable backend solutions, one commit at a time.
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafif110808&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rafif110808&theme=tokyonight&hide_border=true" />
+</p>
+
 ## 🏀 Mindset
 
-> **"Consistency on the court. Consistency in the code."**
+## 🏀 Mindset
 
-Inspired by the discipline, teamwork, and continuous improvement that basketball teaches.
+> *"Consistency on the court. Consistency in the code."*
+
+Basketball has taught me discipline, teamwork, and perseverance.  
+I apply the same mindset to software development by learning continuously, writing clean code, and improving with every project.
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://github.com/Rafif110808" target="blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:EMAIL_KAMU">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://www.linkedin.com/in/LINKEDIN_KAMU/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</p>
