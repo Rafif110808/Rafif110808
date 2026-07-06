@@ -3,7 +3,6 @@
 <h3 align="center">Backend Developer • Laravel Enthusiast • Information Systems Student</h3>
 
 <p align="center">
-
 Building reliable backend solutions, one commit at a time.
 
 </p>
@@ -24,3 +23,6 @@ Building reliable backend solutions, one commit at a time.
 - 🎯 My goal is to become a professional Backend Engineer and continuously grow as a developer.
 
 - ## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode,postman&theme=dark" />
+</p>
