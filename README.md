@@ -16,13 +16,10 @@ Building reliable backend solutions with consistency, curiosity, and continuous 
   <img src="https://media1.tenor.com/m/nXiz14U3BSEAAAAC/stephen-curry-shocked.gif" width="450" alt="Stephen Curry GIF"/>
 </p>
 
----
 <h3 align="center">
 "Be the best version of yourself in anything you do. You don't have to live anybody else's story."
 </h3>
 > — Stephen Curry
-
-This mindset inspires me to keep learning, write better code, and continuously improve as a backend developer.
 
 ---
 
