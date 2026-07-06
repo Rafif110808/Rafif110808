@@ -2,121 +2,216 @@
   <img src="https://media1.tenor.com/m/nXiz14U3BSEAAAAC/stephen-curry-shocked.gif" width="450" alt="Stephen Curry GIF"/>
 </p>
 
-<h3 align="center">
-"Be the best version of yourself in anything you do. You don't have to live anybody else's story."
-</h3>
-<p align="center"> — Stephen Curry</p>
+<p align="center">
+  <i>"Be the best version of yourself in anything you do. You don't have to live anybody else's story."</i>
+</p>
+
+<p align="center">
+  <b>— Stephen Curry</b>
+</p>
 
 ---
 
-<h1 align="center">Hi 👋, I'm Muhammad Rafif Rabbani</h1>
+<h1 align="center">
+Hi 👋, I'm Muhammad Rafif Rabbani
+</h1>
 
 <h3 align="center">
 Backend Developer • Laravel Enthusiast • Information Systems Student
 </h3>
 
 <p align="center">
-Building reliable backend solutions with consistency, curiosity, and continuous learning.
+Building reliable backend applications with consistency, curiosity, and continuous learning.
 </p>
-
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+Developer;Laravel+Enthusiast;REST+API+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+Developer;Laravel+Developer;REST+API+Developer;Node.js+Learner;Always+Learning+New+Things" />
 </p>
-
----
-
-## 📫 Connect With Me
-
-
-
 
 ---
 
 # 🏀 About Me
 
-- 🎓 Information Systems Student passionate about backend development.
-- 💻 Building web applications and REST APIs using Laravel and PHP.
-- 🌱 Currently learning backend architecture, clean code, and software engineering.
-- 🚀 Enjoy turning ideas into real-world applications.
-- 🏀 Inspired by the discipline, consistency, and teamwork found in basketball.
-- 🎯 Goal: Become a professional Backend Engineer.
+I'm an Information Systems student from Indonesia who enjoys building backend systems and solving real-world problems through code.
+
+Currently, I'm focusing on improving my backend development skills by building web applications, designing databases, developing REST APIs, and learning software architecture.
+
+Basketball has taught me discipline, teamwork, and consistency—values that I also apply when writing code.
+
+### Currently Learning
+
+- 🌱 Laravel
+- 🌱 CodeIgniter 4
+- 🌱 Node.js & Socket.IO
+- 🌱 PostgreSQL
+- 🌱 REST API
+- 🌱 Software Architecture
+- 🌱 Clean Code
 
 ---
 
 # 🛠 Tech Stack
 
+### Languages
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php" />
+</p>
+
+### Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=laravel,nodejs" />
+</p>
+
+### Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🏀 Club Basket REST API
+## 🏀 Basketball Academy Management System
 
-REST API built with Laravel and MySQL for managing basketball club data.
+A web-based information system for managing basketball academy operations.
 
-**Tech Stack:** Laravel • PHP • MySQL • REST API
+**Features**
 
-🔗 Repository: *(Add your repository link here)*
+- Student Management
+- Attendance
+- Schedule
+- Payment Management
+- Dashboard
+
+**Tech Stack**
+
+Laravel • PHP • MySQL
 
 ---
 
-### 🌐 Personal Portfolio
+## 📦 Purchase Request Management System
 
-A modern portfolio website to showcase my projects, skills, and learning journey.
+A Purchase Request application developed during internship.
 
-**Status:** 🚧 Currently in Development
+**Features**
+
+- Purchase Request
+- Product Management
+- Supplier Management
+- Customer Management
+- Realtime Notification
+- Role Management
+
+**Tech Stack**
+
+CodeIgniter 4 • PostgreSQL • Node.js • Socket.IO
 
 ---
 
-### 📚 More Projects Coming Soon...
+## ✅ Habit Tracker
 
-I enjoy building real-world applications and continuously improving my backend development skills.
+A productivity web application to help users build consistent habits.
+
+**Features**
+
+- Daily Habits
+- Progress Tracking
+- Reminder
+- Dashboard
+
+**Status**
+
+🚧 In Development
+
+---
+
+## 🌐 Personal Portfolio
+
+A personal website to showcase projects, skills, and experiences.
+
+**Status**
+
+🚧 In Development
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rafif110808&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rafif110808&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rafif110808&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rafif110808&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rafif110808&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Rafif110808&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+# 📈 Current Focus
+
+- 🚀 Building real-world backend applications
+- 📚 Learning Software Engineering
+- ⚡ Exploring Node.js Realtime Applications
+- 🔥 Improving REST API Design
+- 🧠 Writing cleaner and maintainable code
 
 ---
 
 # 🏀 Mindset
 
-> *"Consistency on the court. Consistency in the code."*
+> **"Consistency on the court. Consistency in the code."**
 
-Basketball has taught me discipline, teamwork, perseverance, and continuous improvement. I apply the same mindset to software development by writing clean code, solving problems, and learning something new every day.
+Basketball has shaped the way I approach software development.
+
+Every practice teaches discipline.
+
+Every game teaches teamwork.
+
+Every bug teaches patience.
+
+Every project teaches growth.
+
+I believe becoming a better developer is not about writing more code—it is about improving a little every single day.
 
 ---
 
 # 📫 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/Rafif110808">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+<p align="center">
 
-  <a href="mailto:your-email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+<a href="https://github.com/Rafif110808">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
 
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://www.linkedin.com/in/your-linkedin">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+
+### Thanks for visiting my GitHub profile! ⭐
+
+*"Keep learning. Keep building. Keep improving."*
+
 </p>
