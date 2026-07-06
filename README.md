@@ -115,12 +115,12 @@ Basketball teaches discipline, consistency, and teamwork. I apply the same minds
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="mailto:emailkamu@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://instagram.com/usernamekamu">
+  <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
 </p>
