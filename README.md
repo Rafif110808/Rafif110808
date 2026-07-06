@@ -3,10 +3,9 @@
 </p>
 
 <h1 align="center">
-  Hi I'm Muhammad Rafif Rabbani 
-  <img src="https://githubusercontent.com" alt="Waving Hand" width="40" height="40" style="vertical-align: middle;" />
-  <img src="https://githubusercontent.com" alt="Cat Face" width="40" height="40" style="vertical-align: middle;" />
+  Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Crossed%20Fingers%20Medium%20Skin%20Tone.png" alt="Crossed Fingers Medium Skin Tone" width="25" height="25" />, I'm Muhammad Rafif Rabbani
 </h1>
+
 
 
 <h3 align="center">
