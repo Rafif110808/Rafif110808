@@ -29,9 +29,7 @@ Building reliable backend solutions with consistency, curiosity, and continuous 
 ## 📫 Connect With Me
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" />
-</p>
+
 
 ---
 
