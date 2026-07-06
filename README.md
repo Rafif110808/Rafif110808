@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rafif Rabbani</h1>
 
-<h3 align="center">Backend Developer • Laravel Enthusiast • Information Systems Student</h3>
+<h3 align="center">
+Backend Developer • Laravel Enthusiast • Information Systems Student
+</h3>
 
 <p align="center">
-Building reliable backend solutions, one commit at a time.
-
+Building reliable backend solutions with consistency, curiosity, and continuous learning.
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+Developer;Laravel+Enthusiast;REST+API+Developer;Always+Learning+New+Things" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+Developer;Laravel+Enthusiast;REST+API+Developer;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
@@ -18,27 +17,57 @@ Building reliable backend solutions, one commit at a time.
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" />
 </p>
 
 ---
 
+# 🏀 About Me
 
-## 🏀 About Me
-
-- 🎓 Information Systems Student with a strong interest in backend development.
-- 💻 Passionate about building web applications and REST APIs using Laravel.
-- 🌱 Currently learning advanced backend technologies and improving problem-solving skills.
-- 🚀 I enjoy turning ideas into real-world projects through clean and maintainable code.
+- 🎓 Information Systems Student passionate about backend development.
+- 💻 Building web applications and REST APIs using Laravel and PHP.
+- 🌱 Currently learning backend architecture, clean code, and software engineering.
+- 🚀 Enjoy turning ideas into real-world applications.
 - 🏀 Inspired by the discipline, consistency, and teamwork found in basketball.
-- 🎯 My goal is to become a professional Backend Engineer and continuously grow as a developer.
+- 🎯 Goal: Become a professional Backend Engineer.
 
-- ## 🛠 Tech Stack
+---
+
+# 🛠 Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode,postman&theme=dark" />
 </p>
 
-## 📊 GitHub Stats
+---
+
+# 🚀 Featured Projects
+
+### 🏀 Club Basket REST API
+
+REST API built with Laravel and MySQL for managing basketball club data.
+
+**Tech Stack:** Laravel • PHP • MySQL • REST API
+
+🔗 Repository: *(Add your repository link here)*
+
+---
+
+### 🌐 Personal Portfolio
+
+A modern portfolio website to showcase my projects, skills, and learning journey.
+
+**Status:** 🚧 Currently in Development
+
+---
+
+### 📚 More Projects Coming Soon...
+
+I enjoy building real-world applications and continuously improving my backend development skills.
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rafif110808&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -49,28 +78,34 @@ Building reliable backend solutions, one commit at a time.
   <img src="https://streak-stats.demolab.com?user=Rafif110808&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🏀 Mindset
+---
 
-## 🏀 Mindset
+# 🏀 Mindset
 
 > *"Consistency on the court. Consistency in the code."*
 
-Basketball has taught me discipline, teamwork, and perseverance.  
-I apply the same mindset to software development by learning continuously, writing clean code, and improving with every project.
+Basketball has taught me discipline, teamwork, perseverance, and continuous improvement. I apply the same mindset to software development by writing clean code, solving problems, and learning something new every day.
 
-## 📫 Connect With Me
+---
+
+# 📫 Connect With Me
 
 <p align="left">
-<a href="https://github.com/Rafif110808" target="blank">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+  <a href="https://github.com/Rafif110808">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 
-<a href="mailto:EMAIL_KAMU">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 
-<a href="https://www.linkedin.com/in/LINKEDIN_KAMU/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
 </p>
