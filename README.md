@@ -44,30 +44,35 @@ Basketball has taught me discipline, teamwork, and consistency—values that I a
 
 # 🛠 Tech Stack
 
-### Languages
+### 💻 Frontend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=laravel,nodejs" />
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel" />
 </p>
 
-### Database
+### 🗄️ Database
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### Tools
+### 🔧 Tools
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
+### 🌱 Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs" />
+</p>
 ---
 
 # 📊 GitHub Statistics
