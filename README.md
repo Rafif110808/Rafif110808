@@ -20,16 +20,14 @@ Building reliable backend solutions with consistency, curiosity, and continuous 
 </p>
 
 
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+Developer;Laravel+Enthusiast;REST+API+Developer;Always+Learning+New+Things" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rafif110808&label=Profile%20Views&color=2563eb&style=for-the-badge" />
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" />
