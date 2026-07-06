@@ -7,6 +7,7 @@
 </h3>
 <p align="center"> — Stephen Curry</p>
 
+---
 
 <h1 align="center">Hi 👋, I'm Muhammad Rafif Rabbani</h1>
 
