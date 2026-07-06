@@ -13,7 +13,11 @@ Building reliable backend solutions with consistency, curiosity, and continuous 
 </p>
 
 <p align="center">
-  <img src="https://tenor.com/view/greeeen-gif-10411387815657274690" width="450" />
+  <img
+    src="https://media1.tenor.com/m/nXiz14U3BSEAAAAC/stephen-curry-shocked.gif"
+    alt="Stephen Curry"
+    width="450"
+  />
 </p>
 
 ---
