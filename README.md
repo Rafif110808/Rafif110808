@@ -60,7 +60,7 @@ Building reliable backend solutions, one commit at a time.
 ### 🧩 Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,codeigniter,flask,react,bootstrap,tailwind"/>
+<img src="https://skillicons.dev/icons?i=laravel,flask,react,bootstrap,tailwind"/>
 </p>
 
 ### 🗄️ Database
