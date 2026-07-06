@@ -3,8 +3,11 @@
 </p>
 
 <h1 align="center">
-  Hi <img src="./assets/gifs/wave.gif" width="35">, I'm Muhammad Rafif Rabbani
+  Hi I'm Muhammad Rafif Rabbani 
+  <img src="https://githubusercontent.com" alt="Waving Hand" width="40" height="40" style="vertical-align: middle;" />
+  <img src="https://githubusercontent.com" alt="Cat Face" width="40" height="40" style="vertical-align: middle;" />
 </h1>
+
 
 <h3 align="center">
 Backend Developer • Laravel Enthusiast • Information Systems Student
