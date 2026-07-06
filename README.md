@@ -2,20 +2,6 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2o3cHUzNG96M2J3aGdqY2twb3poYWYzODJtNm5vampoZW5iZXNpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bQQhvm48KehvDLSwPn/giphy.gif" width="450" alt="Stephen Curry GIF"/>
 </p>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/nXiz14U3BSEAAAAC/stephen-curry-shocked.gif" width="450" alt="Stephen Curry GIF"/>
-</p>
-
-<p align="center">
-  <i>"Be the best version of yourself in anything you do. You don't have to live anybody else's story."</i>
-</p>
-
-<p align="center">
-  <b>— Stephen Curry</b>
-</p>
-
----
-
 <h1 align="center">
 Hi 👋, I'm Muhammad Rafif Rabbani
 </h1>
@@ -82,72 +68,6 @@ Basketball has taught me discipline, teamwork, and consistency—values that I a
 
 ---
 
-# 🚀 Featured Projects
-
-## 🏀 Basketball Academy Management System
-
-A web-based information system for managing basketball academy operations.
-
-**Features**
-
-- Student Management
-- Attendance
-- Schedule
-- Payment Management
-- Dashboard
-
-**Tech Stack**
-
-Laravel • PHP • MySQL
-
----
-
-## 📦 Purchase Request Management System
-
-A Purchase Request application developed during internship.
-
-**Features**
-
-- Purchase Request
-- Product Management
-- Supplier Management
-- Customer Management
-- Realtime Notification
-- Role Management
-
-**Tech Stack**
-
-CodeIgniter 4 • PostgreSQL • Node.js • Socket.IO
-
----
-
-## ✅ Habit Tracker
-
-A productivity web application to help users build consistent habits.
-
-**Features**
-
-- Daily Habits
-- Progress Tracking
-- Reminder
-- Dashboard
-
-**Status**
-
-🚧 In Development
-
----
-
-## 🌐 Personal Portfolio
-
-A personal website to showcase projects, skills, and experiences.
-
-**Status**
-
-🚧 In Development
-
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -176,19 +96,17 @@ A personal website to showcase projects, skills, and experiences.
 
 # 🏀 Mindset
 
-> **"Consistency on the court. Consistency in the code."**
+<p align="center">
+  <img src="https://media1.tenor.com/m/nXiz14U3BSEAAAAC/stephen-curry-shocked.gif" width="450" alt="Stephen Curry GIF"/>
+</p>
 
-Basketball has shaped the way I approach software development.
+<p align="center">
+  <i>"Be the best version of yourself in anything you do. You don't have to live anybody else's story."</i>
+</p>
 
-Every practice teaches discipline.
-
-Every game teaches teamwork.
-
-Every bug teaches patience.
-
-Every project teaches growth.
-
-I believe becoming a better developer is not about writing more code—it is about improving a little every single day.
+<p align="center">
+  <b>— Stephen Curry</b>
+</p>
 
 ---
 
