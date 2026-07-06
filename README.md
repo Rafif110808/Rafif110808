@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Muhammad Rafif Rabbani</h1>
+<h3 align="center"> Students Learning Programming | Laravel Enthusiast | Information Systems Student</h3>
 
-<!--
-**Rafif110808/Rafif110808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Interested in full-stack development, game creation, and learning new things about technology.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+Developer;Laravel+Enthusiast;REST+API+Developer;Always+Learning+New+Things" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450">
+</p>
