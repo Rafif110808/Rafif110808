@@ -14,6 +14,10 @@ Building reliable backend solutions, one commit at a time.
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rafif110808&label=Profile%20Views&color=2563eb&style=for-the-badge" />
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
 </p>
 
