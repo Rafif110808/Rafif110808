@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2o3cHUzNG96M2J3aGdqY2twb3poYWYzODJtNm5vampoZW5iZXNpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bQQhvm48KehvDLSwPn/giphy.gif" width="450" alt="Stephen Curry GIF"/>
+</p>
+
+<p align="center">
   <img src="https://media1.tenor.com/m/nXiz14U3BSEAAAAC/stephen-curry-shocked.gif" width="450" alt="Stephen Curry GIF"/>
 </p>
 
