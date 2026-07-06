@@ -27,21 +27,15 @@ Building reliable backend solutions, one commit at a time.
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode,postman&theme=dark" />
 </p>
 
-## 🚀 Featured Projects
+## 📊 GitHub Stats
 
-### 🏀 Club Basket REST API
-A REST API built with Laravel and MySQL for managing basketball club data, including players, teams, and matches.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rafif110808&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafif110808&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-**Tech Stack:** Laravel • PHP • MySQL • REST API
+## 🏀 Mindset
 
----
+> **"Consistency on the court. Consistency in the code."**
 
-### 🌐 Personal Portfolio
-Currently building my personal portfolio website to showcase my projects, skills, and learning journey.
-
-**Status:** 🚧 In Progress
-
----
-
-### 📚 More Projects Coming Soon...
-I enjoy building real-world applications and continuously expanding my portfolio.
+Inspired by the discipline, teamwork, and continuous improvement that basketball teaches.
