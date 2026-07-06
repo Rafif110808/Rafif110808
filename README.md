@@ -26,3 +26,22 @@ Building reliable backend solutions, one commit at a time.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode,postman&theme=dark" />
 </p>
+
+## 🚀 Featured Projects
+
+### 🏀 Club Basket REST API
+A REST API built with Laravel and MySQL for managing basketball club data, including players, teams, and matches.
+
+**Tech Stack:** Laravel • PHP • MySQL • REST API
+
+---
+
+### 🌐 Personal Portfolio
+Currently building my personal portfolio website to showcase my projects, skills, and learning journey.
+
+**Status:** 🚧 In Progress
+
+---
+
+### 📚 More Projects Coming Soon...
+I enjoy building real-world applications and continuously expanding my portfolio.
