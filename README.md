@@ -17,9 +17,6 @@ Building reliable backend solutions with consistency, curiosity, and continuous 
 </p>
 
 ---
-
-## 🏀 Inspiration
-
  *"Be the best version of yourself in anything you do. You don't have to live anybody else's story."*
 
 > — Stephen Curry
