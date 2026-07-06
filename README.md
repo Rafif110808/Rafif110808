@@ -13,11 +13,7 @@ Building reliable backend solutions with consistency, curiosity, and continuous 
 </p>
 
 <p align="center">
-  <img
-    src="https://media1.tenor.com/m/nXiz14U3BSEAAAAC/stephen-curry-shocked.gif"
-    alt="Stephen Curry"
-    width="450"
-  />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejM5c3R1bmUzdDR5cGx6aDFncWN3bnhkN25pNDZlbnI5MnByd2M2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMlwrB5kC7qFo04CN9/giphy.gif" width="450" alt="Stephen Curry GIF"/>
 </p>
 
 ---
