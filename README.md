@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rafif Rabbani</h1>
-<h3 align="center"> Students Learning Programming | Laravel Enthusiast | Information Systems Student</h3>
+<h3 align="center"> Information Systems Student | Aspiring Full-Stack Developer </h3>
 
 <p align="center">
-  Interested in full-stack development, game creation, and learning new things about technology.
+ I enjoy building web applications, creating games, and exploring new technologies.
 </p>
 
 <p align="center">
