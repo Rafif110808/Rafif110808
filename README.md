@@ -13,6 +13,22 @@ Building reliable backend solutions with consistency, curiosity, and continuous 
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="500"/>
+</p>
+
+---
+
+## 🏀 Inspiration
+
+> *"Success is not an accident, success is actually a choice."*
+>
+> — Stephen Curry
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rafif110808&label=Profile%20Views&color=2563eb&style=for-the-badge" />
 </p>
 
