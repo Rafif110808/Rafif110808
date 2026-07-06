@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2o3cHUzNG96M2J3aGdqY2twb3poYWYzODJtNm5vampoZW5iZXNpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bQQhvm48KehvDLSwPn/giphy.gif" width="450" alt="Stephen Curry GIF"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VwdmtjcGJwb2VuZjRtaWloODFhZTBzaGFibzk4ODk1Z2dodnlwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8vUWI2MnKO13AoVeze/giphy.gif" width="450" alt="Stephen Curry GIF"/>
 </p>
 
 <h1 align="center">
