@@ -78,7 +78,7 @@ Software Engginer Student • Design Enthusiast
 ## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@Rafif110808?theme=asoul">
+  <img src="https://count.getloli.com/get/@Rafif110808?theme=original">
 </p>
 
 ---
