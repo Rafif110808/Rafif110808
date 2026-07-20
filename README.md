@@ -111,8 +111,6 @@ Software Engginer Student • Design Enthusiast
 >
 > **— Stephen Curry**
 
-Basketball teaches discipline, consistency, and teamwork. I apply the same mindset when building software: keep learning, write clean code, and improve every single day.
-
 ---
 
 # 📫 Connect With Me
