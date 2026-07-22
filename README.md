@@ -2,7 +2,9 @@
 
 <img src="https://media1.tenor.com/m/k_iGJVQ7DXMAAAAC/kitty-cat.gif" width="180">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Rafif%20Rabbani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Backend%20%26%20REST%20API%20Developer&descAlignY=58&descSize=18"/>
+# Hi 👋, I'm Muhammad Rafif Rabbani
+
+**Information Systems Student &nbsp;|&nbsp; Backend & REST API Developer**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=FF3CBD&center=true&vCenter=true&width=650&lines=Backend+%26+REST+API+Developer;Frontend+with+React+%26+Tailwind;Laravel+Enthusiast;Learning+Node.js+%26+Software+Architecture;Always+Building+Something+New"/>
 
@@ -46,9 +48,9 @@ goal:        Become a professional Backend Engineer
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="130"/>
+<img src="https://skillicons.dev/icons?i=laravel" width="90"/>
 <br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="180"/>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/HackerGIF.gif" width="180"/>
 
 </td>
 </tr>
