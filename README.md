@@ -4,9 +4,9 @@
 
 # Hi 👋, I'm Muhammad Rafif Rabbani
 
-**Information Systems Student &nbsp;|&nbsp; Backend & REST API Developer**
+**Software Engginer Student &nbsp;|&nbsp; Frontend Developer**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=FF3CBD&center=true&vCenter=true&width=650&lines=Backend+%26+REST+API+Developer;Frontend+with+React+%26+Tailwind;Laravel+Enthusiast;Learning+Node.js+%26+Software+Architecture;Always+Building+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=FF3CBD&center=true&vCenter=true&width=650&lines=Frontend+Developer+with+React+%26+Tailwind;Laravel+Enthusiast;Always+Building+Something+New"/>
 
 <p>
   <a href="mailto:rabbanirafif434@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -30,20 +30,19 @@
 
 ```yaml
 name:        Muhammad Rafif Rabbani
-role:        Information Systems Student & Backend Developer
-focus:       Building clean, reliable REST APIs and web applications
-stack:       Laravel · PHP · MySQL / PostgreSQL
+role:        Information Systems Student Frontend Developer
+focus:       Building modern, responsive, and user-friendly web interfaces
+stack:       Laravel · PHP · MySQL / PostgreSQL · HTML · CSS · JavaScript · React · Next.js · Tailwind CSS
 learning:    React · Node.js · Software Architecture
 philosophy:  Discipline on the court = discipline in code
 goal:        Become a professional Backend Engineer
 ```
 
-- 🎓 Information Systems student, passionate about backend development
-- ⚙️ Building REST APIs and web applications with **Laravel**
-- 🌱 Currently deepening my skills in **React**, **Node.js**, and **Software Architecture**
+- 🎓 Software Engginer student, passionate about frontend development
+- ⚙️ Building web applications with **Laravel**
+- 🌱 Currently deepening my skills in **React**, **Node.js**
 - 🚀 I like turning ideas into things that actually run in production
-- 🏀 Basketball taught me discipline, consistency, and teamwork — values I bring straight into engineering
-- 🎯 Long-term goal: becoming a professional Backend Engineer
+- 🎯 Long-term goal: becoming a professional Frontend Engineer
 
 </td>
 <td width="40%" valign="top" align="center">
